@@ -1,0 +1,37 @@
+_repo: The-Nether-World_4301
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: Novel about London slum life in the 1870s and 1880s. Raw, Unsentimental,
+  offering little comfort, viewing the working classes as condemned to a life in hell
+  via industrialization, a life from which there is no hope of escape. It is one man's
+  mordant vision--shaped by bitter personal experience of poverty--of the quality
+  of life endured by a variety of characters in the nether world. With Zolaesque intensity
+  and relentlessness, Gissing lays bare the economic forces which determine the aspirations
+  and expectations of those born to a life of labour. This is a tale of intrigue,
+  as rapacious schemers try to wrest a fortune out of a mysterious old man who has
+  returned to their midst, and of thwarted love.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poverty -- Fiction'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Poor -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: The Nether World
+url: http://www.gutenberg.org/ebooks/4301
