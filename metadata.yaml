@@ -1,5 +1,8 @@
 _repo: The-Nether-World_4301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -18,6 +21,8 @@ description: Novel about London slum life in the 1870s and 1880s. Raw, Unsentime
   and expectations of those born to a life of labour. This is a tale of intrigue,
   as rapacious schemers try to wrest a fortune out of a mysterious old man who has
   returned to their midst, and of thwarted love.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4301#The-Nether-World
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
